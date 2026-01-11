@@ -1,4 +1,4 @@
-# Feishu
+# Feishu 
 This directory contains the manifest-only connector for `source-feishu`.
 
 Extracts data from Feishu/Lark Bitable (Base). Supports authentication via App ID and App Secret.
